@@ -8,8 +8,8 @@
   </div>
    	<div align="center">
      Basically an application integrate <a href="https://github.com/uci-cbcl/NoduleNet">NoduleNet</a> & texture classification model.
-  </div>
-    <br>
+</div>
+<!--<br>
     <div align="center" 
     style="padding: 15px;
 			 margin-bottom: 20px;
@@ -20,7 +20,10 @@
 			 color: #8a6d3b;">
 			 <strong>Warning!</strong> Performance of the system is still incomplete and far away from practical use.
 </div>
+-->
 </p>
+
+> :warning: **Warning**: Performance of the system is still incomplete and far away from practical use.
 
 ## Table of contents
 * [Application Demo](#application-demo)
@@ -51,7 +54,7 @@ The application has three different view:
 ### Main Window
 
 <p align="center">
-    <img src="resources/main_window.png" alt="main window" width="600">
+    <img src="resources/main_window.png" alt="main window" width="1200">
 </p>
 
 * Have a quick view of patient list and corresponding scans & nodules information.
