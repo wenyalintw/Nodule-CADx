@@ -54,7 +54,7 @@ The application has three different view:
 ### Main Window
 
 <p align="center">
-    <img src="resources/main_window.png" alt="main window" width="1200">
+    <img src="resources/main_window.png" alt="main window" width="720">
 </p>
 
 * Have a quick view of patient list and corresponding scans & nodules information.
