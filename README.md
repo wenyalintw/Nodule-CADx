@@ -80,7 +80,7 @@ The application has three different view:
 ### Screening Window
 
 <p align="center">
-    <img src="resources/screening_window.gif" alt="screening window" width="600">
+    <img src="resources/screening_window.gif" alt="screening window" width="720">
 </p>
 
 * Showing selected scan and it's corresponding detected nodules
