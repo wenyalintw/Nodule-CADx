@@ -1,6 +1,6 @@
 <p align="center">
   <a href=#>
-    <img src="resources/nodule.png" alt="Nodule CADx" width="96" height="96">
+    <img src="resources/nodule.png" alt="Nodule CADx" height="96">
   </a>
   <h2 align="center">Nodule CADx</h2>
     <div align="center">
