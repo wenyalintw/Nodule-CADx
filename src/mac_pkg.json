@@ -1,0 +1,331 @@
+{
+  "app": "Nodule CADx",
+  "version": "1.0.0",
+  "preferences": {
+    "threshold": "0.8",
+    "project_directory": "C:\\Users\\lab138\\Desktop\\Nodule_CADx0421",
+    "automatic_classification": true,
+    "windowlevel": "?"
+  },
+  "members": [
+    {
+      "updated": true,
+      "patient_name": "Dylan Hall",
+      "date_of_birth": "1990-05-12",
+      "sex": "F",
+      "score": "4A",
+      "management": "LDCT @ 1980-08-16",
+      "scans": [
+        {
+          "updated": true,
+          "scan_path": "/Users/apple/Downloads/combine/1.3.6.1.4.1.14519.5.2.1.6279.6001.100225287222365663678666836860.mhd",
+          "scan_date": "1980-05-16",
+          "nodules": [
+            {
+              "x": "78",
+              "y": "211",
+              "z": "44",
+              "prob": "0.99",
+              "diameter": "12.63",
+              "type": "4",
+              "score": "4A",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            },
+            {
+              "x": "152",
+              "y": "67",
+              "z": "407",
+              "prob": "0.91",
+              "diameter": "14.16",
+              "type": "3",
+              "score": "4A",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            },
+            {
+              "x": "175",
+              "y": "313",
+              "z": "370",
+              "prob": "0.84",
+              "diameter": "11.71",
+              "type": "4",
+              "score": "4A",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            },
+            {
+              "x": "147",
+              "y": "82",
+              "z": "87",
+              "prob": "0.82",
+              "diameter": "13.85",
+              "type": "3",
+              "score": "4A",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "updated": true,
+      "patient_name": "Daniel White",
+      "date_of_birth": "1989-01-25",
+      "sex": "F",
+      "score": "4A",
+      "management": "LDCT @ 2017-01-18",
+      "scans": [
+        {
+          "updated": true,
+          "scan_path": "/Users/apple/Downloads/combine/1.3.6.1.4.1.14519.5.2.1.6279.6001.100398138793540579077826395208.mhd",
+          "scan_date": "2016-10-18",
+          "nodules": [
+            {
+              "x": "61",
+              "y": "85",
+              "z": "482",
+              "prob": "0.99",
+              "diameter": "14.32",
+              "type": "5",
+              "score": "4A",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            },
+            {
+              "x": "59",
+              "y": "363",
+              "z": "374",
+              "prob": "0.97",
+              "diameter": "11.98",
+              "type": "3",
+              "score": "3",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            },
+            {
+              "x": "1",
+              "y": "442",
+              "z": "211",
+              "prob": "0.95",
+              "diameter": "23.11",
+              "type": "1",
+              "score": "2",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            },
+            {
+              "x": "111",
+              "y": "160",
+              "z": "186",
+              "prob": "0.86",
+              "diameter": "11.78",
+              "type": "4",
+              "score": "4A",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "updated": true,
+      "patient_name": "Terry Mccoy",
+      "date_of_birth": "1996-03-05",
+      "sex": "F",
+      "score": "4A",
+      "management": "LDCT @ 1983-11-30",
+      "scans": [
+        {
+          "updated": true,
+          "scan_path": "/Users/apple/Downloads/combine/1.3.6.1.4.1.14519.5.2.1.6279.6001.162901839201654862079549658100.mhd",
+          "scan_date": "1983-08-31",
+          "nodules": [
+            {
+              "x": "18",
+              "y": "389",
+              "z": "129",
+              "prob": "0.97",
+              "diameter": "12.59",
+              "type": "4",
+              "score": "4A",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            },
+            {
+              "x": "72",
+              "y": "117",
+              "z": "198",
+              "prob": "0.87",
+              "diameter": "25.02",
+              "type": "1",
+              "score": "2",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "updated": true,
+      "patient_name": "Hayden Cross",
+      "date_of_birth": "1979-10-14",
+      "sex": "M",
+      "score": "4B",
+      "management": "Chest CT w/ or w/o contrast, PET/CT and/or tissue sampling may be used1 month LDCT may be recommended to address potentially infectious or inflammatory conditions",
+      "scans": [
+        {
+          "updated": true,
+          "scan_path": "/Users/apple/Downloads/combine/1.3.6.1.4.1.14519.5.2.1.6279.6001.997611074084993415992563148335.mhd",
+          "scan_date": "1997-11-09",
+          "nodules": [
+            {
+              "calcification": "0",
+              "diameter": "11.92",
+              "endobronchial": "0",
+              "perifissural": "0",
+              "prob": "0.99",
+              "score": "3",
+              "spiculation": "0",
+              "type": "3",
+              "x": "92",
+              "y": "370",
+              "z": "338"
+            },
+            {
+              "calcification": "0",
+              "diameter": "24.79",
+              "endobronchial": "0",
+              "perifissural": "0",
+              "prob": "0.96",
+              "score": "4B",
+              "spiculation": "0",
+              "type": "5",
+              "x": "40",
+              "y": "86",
+              "z": "301"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "updated": true,
+      "patient_name": "Mrs. Paula Hill MD",
+      "date_of_birth": "1984-02-12",
+      "sex": "M",
+      "score": "4B",
+      "management": "Chest CT w/ or w/o contrast, PET/CT and/or tissue sampling may be used1 month LDCT may be recommended to address potentially infectious or inflammatory conditions",
+      "scans": [
+        {
+          "updated": true,
+          "scan_path": "/Users/apple/Downloads/combine/1.3.6.1.4.1.14519.5.2.1.6279.6001.100621383016233746780170740405.mhd",
+          "scan_date": "1991-12-12",
+          "nodules": [
+            {
+              "x": "229",
+              "y": "248",
+              "z": "380",
+              "prob": "1.0",
+              "diameter": "32.21",
+              "type": "1",
+              "score": "3",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            },
+            {
+              "x": "249",
+              "y": "295",
+              "z": "223",
+              "prob": "1.0",
+              "diameter": "34.74",
+              "type": "1",
+              "score": "3",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            },
+            {
+              "x": "266",
+              "y": "328",
+              "z": "172",
+              "prob": "1.0",
+              "diameter": "18.70",
+              "type": "3",
+              "score": "4B",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            },
+            {
+              "x": "250",
+              "y": "361",
+              "z": "353",
+              "prob": "0.99",
+              "diameter": "11.05",
+              "type": "3",
+              "score": "3",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            },
+            {
+              "x": "141",
+              "y": "334",
+              "z": "379",
+              "prob": "0.88",
+              "diameter": "25.64",
+              "type": "1",
+              "score": "2",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            },
+            {
+              "x": "22",
+              "y": "102",
+              "z": "335",
+              "prob": "0.84",
+              "diameter": "21.11",
+              "type": "4",
+              "score": "4B",
+              "calcification": "0",
+              "spiculation": "0",
+              "perifissural": "0",
+              "endobronchial": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
